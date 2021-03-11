@@ -21,3 +21,11 @@ Without having to step out of the classroom or their home, students are exposed 
 
 ## Created App using Unity
 Working on it!
+
+# Made with ❤️ by
+
+| GitHub Usernames                                      | Domain                     |
+| ----------------------------------------------------- | -------------------------- |
+| [@awantika10](https://github.com/awantika10/)         | Owner                      |
+| [@weebo-ary](https://github.com/weebo-ary)            | Owner                      |
+
